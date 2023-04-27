@@ -1,1 +1,0 @@
-I am line1 of file2
